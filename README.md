@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hyhan" alt="hyhan" /></a> </p>
 
-- 🌱 I’m currently learning **uni-app**
+- 🌱 I’m currently learning **nextjs**
 
 - 📝 I regularly write articles on [juejin.im](juejin.im)
 
